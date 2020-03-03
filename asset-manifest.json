@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/thesis-rst-demo/static/css/main.f802dce5.chunk.css",
+    "main.js": "/thesis-rst-demo/static/js/main.13ec9042.chunk.js",
+    "main.js.map": "/thesis-rst-demo/static/js/main.13ec9042.chunk.js.map",
+    "runtime-main.js": "/thesis-rst-demo/static/js/runtime-main.a6b4e28b.js",
+    "runtime-main.js.map": "/thesis-rst-demo/static/js/runtime-main.a6b4e28b.js.map",
+    "static/css/2.94faccba.chunk.css": "/thesis-rst-demo/static/css/2.94faccba.chunk.css",
+    "static/js/2.6273b1c4.chunk.js": "/thesis-rst-demo/static/js/2.6273b1c4.chunk.js",
+    "static/js/2.6273b1c4.chunk.js.map": "/thesis-rst-demo/static/js/2.6273b1c4.chunk.js.map",
+    "index.html": "/thesis-rst-demo/index.html",
+    "precache-manifest.466a2847e8666258ed7325fff9557571.js": "/thesis-rst-demo/precache-manifest.466a2847e8666258ed7325fff9557571.js",
+    "service-worker.js": "/thesis-rst-demo/service-worker.js",
+    "static/css/2.94faccba.chunk.css.map": "/thesis-rst-demo/static/css/2.94faccba.chunk.css.map",
+    "static/css/main.f802dce5.chunk.css.map": "/thesis-rst-demo/static/css/main.f802dce5.chunk.css.map",
+    "static/js/2.6273b1c4.chunk.js.LICENSE.txt": "/thesis-rst-demo/static/js/2.6273b1c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6b4e28b.js",
+    "static/css/2.94faccba.chunk.css",
+    "static/js/2.6273b1c4.chunk.js",
+    "static/css/main.f802dce5.chunk.css",
+    "static/js/main.13ec9042.chunk.js"
+  ]
+}
